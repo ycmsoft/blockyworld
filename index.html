@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Assignment 4 - World - Alexander Bateman</title>
+</head>
+
+<body>
+  <canvas id="webgl" width="800" height="600" oncontextmenu="return false;">
+    Please use a browser that supports "canvas"
+  </canvas>
+
+  <p>Controls: WASD move | Q/E turn | Mouse look | Left click place block | Right click remove block | Space jump</p>
+  <p>FPS: <span id="fps">--</span> | Gems: <span id="gems">0 / 5</span></p>
+  <p id="story">Find all 5 golden gems hidden in the maze! Walk over them to collect.</p>
+
+  <script src="lib/webgl-utils.js"></script>
+  <script src="lib/webgl-debug.js"></script>
+  <script src="lib/cuon-utils.js"></script>
+  <script src="lib/cuon-matrix-cse160.js"></script>
+  <script src="src/Camera.js"></script>
+  <script src="src/Triangle.js"></script>
+  <script src="src/Circle.js"></script>
+  <script src="src/Cylinder.js"></script>
+  <script src="src/Cube.js"></script>
+  <script src="src/World.js"></script>
+</body>
+</html>
