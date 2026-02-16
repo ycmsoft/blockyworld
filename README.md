@@ -2,7 +2,7 @@
 Name: Alexander Bateman  
 Email: arbatema@ucsc.edu  
 
-Live Demo: https://ycmsoft.github.io/World/index.html
+Live Demo: https://ycmsoft.github.io/blockyworld/index.html
 
 # Files:
 - `index.html` - UI/canvas, loads all scripts.
