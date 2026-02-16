@@ -56,5 +56,5 @@ Used Claude for:
 - **General debugging**: Mostly with mouse movement and errors when typing stuff up from professors videos.
 - Mouse movement reused some lines from last assignment, along with various other functions as I used assignment 2 as starter code.
 
-**Cube.js**: Professors videos.  
+**Cube.js**: Professors videos,slight debugging with ChatGPT (drawArrays line, back and top vertices corrected)
 **Triangle.js**: Professors videos.  
