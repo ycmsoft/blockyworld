@@ -2,7 +2,7 @@
 // Alexander Bateman
 // arbatema@ucsc.edu
 // Notes to Grader: 
-// Resources used: Professors youtube videos
+// Resources used: Professors youtube videos, slight debugging with ChatGPT (drawArrays line, back and top vertices corrected)
 class Cube {
   constructor(){
     this.type = 'cube';
